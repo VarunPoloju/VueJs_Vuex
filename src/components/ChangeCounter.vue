@@ -1,5 +1,5 @@
 <template>
-  <button @click="addOne">Add 1 change counter</button>
+  <button @click="addOne">Add 2 change counter</button>
 </template>
 
 <script>
